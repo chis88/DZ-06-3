@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\bin\Debug\net6.0\info8754.exe
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\bin\Debug\net6.0\info8754.deps.json
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\bin\Debug\net6.0\info8754.runtimeconfig.json
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\bin\Debug\net6.0\info8754.dll
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\bin\Debug\net6.0\info8754.pdb
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\info8754.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\info8754.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\info8754.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\info8754.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\info8754.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\info8754.dll
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\refint\info8754.dll
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\info8754.pdb
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\info8754.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Repo005-3\Ex4321\info8754\obj\Debug\net6.0\ref\info8754.dll
